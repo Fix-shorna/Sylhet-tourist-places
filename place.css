@@ -1,2 +1,14 @@
-
-    
+.start{
+background-color: beige;
+color: brown;
+font-size: medium;
+border: 5px solid rgb(207, 14, 14);
+width: 500px;
+border-radius:10px;
+text-align: center;
+box-shadow: 20px 20px 10px rgb(141, 115, 82) ;
+}
+.start .hi{
+    color: rgb(193, 69, 24);
+   font-style: oblique;
+}
